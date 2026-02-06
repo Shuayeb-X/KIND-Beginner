@@ -48,4 +48,4 @@ docker --version
 docker compose version
 
 echo "===== DONE ====="
-echo "⚠️  IMPORTANT: LOG OUT and LOG BACK IN (or reboot) before using Docker without sudo"
+echo_msg "Docker installation completed successfully!"
